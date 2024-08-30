@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Hello 👋 my name is Ali Ahmad Fahrezy and I'm from Airlangga University Surabaya, Indonesia, Taking Information System as my Major<br><br>I have a huge interest with Full Stack Development, whether in Website, WebApps, Mobile, and Desktop Apps. I also have an interest on anything related to Open Source Software and Linux.<br><br>Nice to meet you!</p>
+<p align="left">Hello 👋 my name is Ali Ahmad Fahrezy and I'm from Airlangga University Surabaya, Indonesia, Taking Information System as my Major<br><br>
+I am a passionate and innovative developer with a strong background in app development and design, driven by a commitment to creating impactful digital solutions. My goal is to combine creativity with technical expertise to contribute to the ever-evolving tech industry.<br><br>I have a huge interest with Full Stack Development, whether in Website, WebApps, Mobile, and Desktop Apps. I also have an interest on anything related to Open Source Software and Linux.<br><br>Nice to meet you!</p>
 
 ###
 
