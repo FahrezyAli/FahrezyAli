@@ -1,30 +1,26 @@
-<h2 align="left">Hi There👋! Welcome to My Profile</h2>
+<!-- markdownlint-allowed_elements  -->
 
-###
+# Hi There👋! Welcome to My Profile
 
-<p align="left">Hello 👋 my name is Ali Ahmad Fahrezy and I'm from Airlangga University Surabaya, Indonesia, Taking Information System as my Major<br><br>
-I am a passionate and innovative developer with a strong background in app development and design, driven by a commitment to creating impactful digital solutions. My goal is to combine creativity with technical expertise to contribute to the ever-evolving tech industry.<br><br>I have a huge interest with Full Stack Development, whether in Website, WebApps, Mobile, and Desktop Apps. I also have an interest on anything related to Open Source Software and Linux.<br><br>Nice to meet you!</p>
+Hello 👋 my name is Ali Ahmad Fahrezy and I'm from Airlangga University Surabaya, Indonesia, Taking Information System as my Major
+\
+I have a huge interest with Full Stack Development, whether in Website, WebApps, Mobile, and Desktop Apps. I also have an interest on anything related to Open Source Software and Linux.
+\
+Nice to meet you!
+\
+✨ I'm currently a volunteer at TEDxUA Website Development Backend Staff \
+📚 I'm currently learning NEXT.js \
+🎯 Goals: To be a successful Full Stack Developer \
+🎲 Fun fact: I really like Rain 🌧️\
 
-###
-
-<p align="left">✨ I'm currently a volunteer at TEDxUA Website Development Backend Staff<br>📚 I'm currently learning NEXT.js<br>🎯 Goals: To be a successful Full Stack Developer <br>🎲 Fun fact: I really like Rain 🌧️</p>
-
-###
-
-<h4 align="left">Here are My Stats</h4>
-
-###
+## Here are My Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FahrezyAli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FahrezyAli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FahrezyAli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FahrezyAli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
 </div>
 
-###
-
-<h4 align="left">Here are my skills and tools:</h4>
-
-###
+## Here are my skills and tools:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
@@ -60,11 +56,7 @@ I am a passionate and innovative developer with a strong background in app devel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
 </div>
 
-###
-
-<h4 align="left">Here are my socials:</h4>
-
-###
+## Here are my socials:
 
 <div align="left">
   <a href="https://www.linkedin.com/in/fahrezy" target="_blank">
@@ -75,10 +67,4 @@ I am a passionate and innovative developer with a strong background in app devel
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/FahrezyAli/FahrezyAli/output/snake.svg" alt="Snake animation" />
-
-###
+![Snake](https://raw.githubusercontent.com/FahrezyAli/FahrezyAli/output/snake.svg)
