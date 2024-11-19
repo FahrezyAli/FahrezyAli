@@ -11,7 +11,7 @@ Nice to meet you!
 ✨ I'm currently a volunteer at TEDxUA Website Development Backend Staff \
 📚 I'm currently learning NEXT.js \
 🎯 Goals: To be a successful Full Stack Developer \
-🎲 Fun fact: I really like Rain 🌧️\
+🎲 Fun fact: I really like Rain 🌧️ \
 
 ## Here are My Stats
 
