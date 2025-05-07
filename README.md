@@ -8,9 +8,9 @@ I have a huge interest with Full Stack Development, whether in Website, WebApps,
 \
 Nice to meet you!
 \
-✨ I'm currently a volunteer at TEDxUA Website Development Backend Staff \
-📚 I'm currently learning NEXT.js \
-🎯 Goals: To be a successful Full Stack Developer \
+✨ I'm currently a Cohort at Apple Developer Academy @ UC \
+📚 I'm currently learning SwiftUI and iOS \
+🎯 Goals: To be a successful Full Stack Developer, Mobile Developer, or iOS Developer \
 🎲 Fun fact: I really like Rain 🌧️
 
 ## Here are My Stats
